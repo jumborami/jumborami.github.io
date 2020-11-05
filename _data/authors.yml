@@ -1,0 +1,11 @@
+jumborami :
+  username: jumborami    # user name : martin
+  name: jumborami        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: <a href="https://boraming.com/portfolio">퍼블리셔, 프론트엔드 개발자가 되고싶어요</a>
+                        # 회사정보
+  picture: assets/built/images/jumborami-logo.jpg   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
